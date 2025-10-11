@@ -1,4 +1,4 @@
-package dzoneone;
+package ru.aston.hometask.taskoneone;
 
 import java.util.Arrays;
 import java.util.Collection;
@@ -70,7 +70,7 @@ public class CustomArrayList<T> {
 
     @Override
     public String toString() {
-        return "dzoneone.CustomArrayList{" +
+        return "ru.aston.hometask.dzoneone.CustomArrayList{" +
                 "elements=" + Arrays.toString(elements) +
                 ", size=" + size +
                 '}';

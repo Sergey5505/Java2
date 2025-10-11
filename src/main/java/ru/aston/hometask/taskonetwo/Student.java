@@ -1,4 +1,4 @@
-package dzonetwo;
+package ru.aston.hometask.taskonetwo;
 
 import java.util.List;
 

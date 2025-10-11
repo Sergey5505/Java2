@@ -1,11 +1,11 @@
-package dzoneone;
+package ru.aston.hometask.taskoneone;
 
 import java.util.Collection;
 import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("=============dzoneone.CustomArrayList==================");
+        System.out.println("=============CustomArrayList==================");
         CustomArrayList<String> listCustomArrayList = new CustomArrayList<>();
         listCustomArrayList.add("Москва");
         listCustomArrayList.add("Казань");
@@ -21,7 +21,7 @@ public class Main {
         System.out.println(listCustomArrayList);
 
 
-        System.out.println("=============dzoneone.CustomLinkedList==================");
+        System.out.println("=============CustomLinkedList==================");
         CustomLinkedList<String> listCustomLinkedList = new CustomLinkedList<>();
         listCustomLinkedList.add("Первый");
         listCustomLinkedList.add("Второй");
@@ -40,7 +40,7 @@ public class Main {
         System.out.println("Общий список после объединения: " + listCustomLinkedList);
 
 
-        System.out.println("=============dzoneone.CustomHashSet==================");
+        System.out.println("=============CustomHashSet==================");
         CustomHashSet<Integer> customSet = new CustomHashSet<>();
         customSet.add(10);
         customSet.add(20);

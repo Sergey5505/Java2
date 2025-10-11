@@ -1,4 +1,4 @@
-package dzoneone;
+package ru.aston.hometask.taskoneone;
 
 public class CustomLinkedList<T> {
     private Node<T> head;

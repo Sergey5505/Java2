@@ -1,4 +1,4 @@
-package dzoneone;
+package ru.aston.hometask.taskoneone;
 
 import java.util.ArrayList;
 import java.util.Arrays;
