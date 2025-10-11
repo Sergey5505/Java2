@@ -8,4 +8,3 @@ public class CustomFileException extends IOException {
         super(message, cause);
     }
 }
-
